@@ -1,0 +1,21 @@
+Package: simbtof
+Type: Package
+Title: Agent-Based Modeling Toolkit for Behavioral Theory of the Firm
+Version: 0.1.0
+Authors@R: c(
+    person(
+      "Junyeon", "Rhee",
+      email = "junyeon.rhee@gmail.com",
+      role = c("aut", "cre")
+    ),
+    person(
+      "Yongha", "Kwon",
+      email = "ykwon1@oberlin.edu",
+      role = c("aut")
+    )
+  )
+Description: A toolkit for replicating and extending computational models of the Behavioral Theory of the Firm. This package particularly focuses on modeling social learning process.
+License: What license is it under?
+Encoding: UTF-8
+LazyData: true
+RoxygenNote: 7.3.2.9000
